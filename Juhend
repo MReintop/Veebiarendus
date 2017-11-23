@@ -2,9 +2,10 @@
 2.getLark.com pakub kolm kuud tasuta majutust.
 3.Need kaks tuleb ühendades lisades getlark DNS-i aadressid namecheapi. Nagu näidatud piltidel.
 Seejärel tuleb getLark-is luua uus domeen sulle kasutuseks antud domeeninimega
-https://user-images.githubusercontent.com/22025373/33164314-d9145f0a-d03a-11e7-8927-9cf1d792d9fa.png
+![hosting](https://user-images.githubusercontent.com/22025373/33164417-660ff838-d03b-11e7-854b-73ce226a902e.png)
 
-https://user-images.githubusercontent.com/22025373/33164272-aff5e724-d03a-11e7-9bb6-e8ec6aa5f3b0.png
+![domain2](https://user-images.githubusercontent.com/22025373/33164422-6c4b1700-d03b-11e7-9ba2-8a0b15f893af.png)
+
 
 4.CMS-i Installeerimiseks tuleb GetLark-is sisse loginuna minema One Click Installeri peale, vajutada oma domeenile ning otsida otsingu kaudu soovitud CMS (On ka automaatsed pakkumised, mille hulgast valida)
 5. CMS-i valisime WordPressi. Peale selle installeerimist saadetakse meilile parool. Minnes oma domeenile ja lisades domeeninime lõppu /admin-wp, saab seda parooli koos oma e-mailiga kasutada, et admini paneelile sisse logida
