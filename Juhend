@@ -1,0 +1,9 @@
+1.Domeeninime .me lõpuga saab tasuta aastaks namecheap.com-is kasutaja tehes ning tasuta aastase domeeni aktiveerides.
+2.getLark.com pakub kolm kuud tasuta majutust.
+3.Need kaks tuleb ühendades lisades getlark DNS-i aadressid namecheapi. Nagu näidatud piltidel.
+Seejärel tuleb getLark-is luua uus domeen sulle kasutuseks antud domeeninimega
+![hosting](https://user-images.githubusercontent.com/22025373/33164259-a51c6fc6-d03a-11e7-8886-a4d7da2e7694.png)
+![domain2](https://user-images.githubusercontent.com/22025373/33164272-aff5e724-d03a-11e7-9bb6-e8ec6aa5f3b0.png)
+
+4.CMS-i Installeerimiseks tuleb GetLark-is sisse loginuna minema One Click Installeri peale, vajutada oma domeenile ning otsida otsingu kaudu soovitud CMS (On ka automaatsed pakkumised, mille hulgast valida)
+5. CMS-i valisime WordPressi. Peale selle installeerimist saadetakse meilile parool. Minnes oma domeenile ja lisades domeeninime lõppu /admin-wp, saab seda parooli koos oma e-mailiga kasutada, et admini paneelile sisse logida
